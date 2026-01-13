@@ -17,7 +17,7 @@ How this README is organized
 Place these files in `docs/` with the filenames shown and commit. Each entry includes alt text, a caption, and a short description of the screen's purpose and key functions.
 
 1. Screenshot 7 — Sign In (Welcome)
-   - Filename: `docs/screenshot-7.png`
+   - Filename: `docs/login_page.png`
    - Alt text: "Welcome screen with app logo, 'Welcome Back' heading, email and password input fields, and a prominent 'Sign In' button."
    - Caption: Sign In — welcome & authentication
    - Description: Entry point for sign in / create account / password reset.
