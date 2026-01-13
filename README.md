@@ -23,7 +23,7 @@ Place these files in `docs/` with the filenames shown and commit. Each entry inc
    - Description: Entry point for sign in / create account / password reset.
 
 2. Screenshot 8 — Dashboard (Overview & Summary)
-   - Filename: `docs/screenshot-8.png`
+   - Filename: `images/login_page.png`
    - Alt text: "Main dashboard showing total spend, quick action buttons (Scan Receipt, All Receipts, Reports), a Spending Breakdown donut chart, and a recent activity list with transaction amounts."
    - Caption: Dashboard — total spending, quick actions, and activity feed
    - Description: Summary card, quick actions, chart and recent activity; supports drill-in on chart segments and quick navigation.
