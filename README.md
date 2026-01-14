@@ -4,9 +4,12 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Mobile-orange) ![License](https://img.shields.io/badge/license-MIT-blue)
 
-## 📖 Overview
+## Overview
 
 This project is a comprehensive mobile application designed to streamline personal expense tracking. It allows users to capture receipts via camera or gallery, utilizes OCR to extract transaction details, and provides detailed analytics on spending habits. It also features a robust Admin Panel for managing users and global categories.
+
+
+This project also got 2nd place for Best Sustainability Award.
 
 ---
 
@@ -36,7 +39,7 @@ The user-facing side focuses on speed, ease of use, and visual data representati
 
 ---
 
-## 🛡️ Admin Portal
+## Admin Portal
 
 A dedicated suite of screens for system administrators to manage the application's ecosystem.
 
@@ -47,7 +50,7 @@ A dedicated suite of screens for system administrators to manage the application
 
 ---
 
-## ⚡ Key Features
+## Key Features
 
 * **Smart Scanning:** Integration with camera hardware and OCR technology to automate data entry.
 * **Visual Analytics:** Interactive donut charts and spending breakdowns to visualize financial habits.
@@ -57,16 +60,10 @@ A dedicated suite of screens for system administrators to manage the application
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** [e.g., Flutter / React Native / Swift / Kotlin]
 * **Backend:** [e.g., Firebase / Node.js / Django]
 * **Database:** [e.g., Firestore / MongoDB / PostgreSQL]
 * **OCR Engine:** [e.g., Google ML Kit / Tesseract]
 
----
-
-## 👤 Author
-
-**G. Muslih**
-* [GitHub Profile](https://github.com/gmuslih)
