@@ -42,7 +42,7 @@ A dedicated suite of screens for system administrators to manage the application
 
 | **Admin Dashboard** | **Manage Users** | **Manage Categories** |
 |:---:|:---:|:---:|
-| <img src="docs/screenshot-4.png" width="250"> | <img src="docs/screenshot-5.png" width="250"> | <img src="docs/screenshot-6.png" width="250"> |
+| <img src="images/admin_dashboard_page.png" width="250"> | <img src="images/manage_user_page.png" width="250"> | <img src="images/manage_categories_page.png" width="250"> |
 | **System Overview**<br>High-level metrics including total users, upload volume, and transaction analytics. | **User Moderation**<br>List view of all accounts with role badges. Admins can activate or suspend users here. | **Global Taxonomy**<br>Add, edit, or remove global expense categories that apply to all users. |
 
 ---
