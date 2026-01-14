@@ -64,8 +64,9 @@ A dedicated suite of screens for system administrators to manage the application
 * **Database:** [e.g., Firestore / MongoDB / PostgreSQL]
 * **OCR Engine:** [e.g., Google ML Kit / Tesseract]
 
+---
 
 ## 👤 Author
 
-**G. Muslih** an
+**G. Muslih**
 * [GitHub Profile](https://github.com/gmuslih)
